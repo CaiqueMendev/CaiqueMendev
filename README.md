@@ -36,7 +36,7 @@
 
 ## 🚀 Tecnologias & Ferramentas  
 
-### **💻 Stack de BackEnd**
+### **⚙️ Stack de BackEnd**
 ![Node.js](https://img.shields.io/badge/Node.js-43853d?style=for-the-badge&logo=node.js&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -58,25 +58,25 @@
 
 ## 📌 Projetos Destacados
 ### 🔧 **[Painel de Ordem de Serviço](#)**
-> **Stack:** PHP + MySQL  
+> **Stack:** PHP + MySQL <br>
 > Dashboard completo para gerenciamento de ordens de serviço.
 
 ### 🛒 **[Multi e-commerce](#)**
-> **Stack:** Next.js + Node.js + AWS  
+> **Stack:** Next.js + Node.js + AWS <br>
 > Desenvolvendo um marketplace para conectar fornecedores físicos a consumidores digitais.
 
-### 🔧 **[GEO - Gestão Eficiente de Obra](#)**
-> **Stack:** Laravel + React + MySQL
+### 👷 **[GEO - Gestão Eficiente de Obra](#)**
+> **Stack:** Laravel + React + MySQL <br>
 > ERP e Dashboard para gestão de obra civil.
 
 ---
 
 ## 📈 Estatísticas do GitHub
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?CaiqueMendev&layout=compact&theme=dark" height="165">
-  <img src="https://github-readme-stats.vercel.app/api?CaiqueMendev&show_icons=true&theme=dark" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?CaiqueMendev">
+  <img src="https://github-readme-stats.vercel.app/api?username=CaiqueMendev">
 </p>
-
+[![CaiqueMendev GitHub stats](https://github-readme-stats.vercel.app/api?username=CaiqueMendev)](https://github.com/CaiqueMendev/github-readme-stats)
 ---
 
 ## 📬 Como me encontrar?
