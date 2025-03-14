@@ -73,7 +73,7 @@
 
 ## 📈 Estatísticas do GitHub
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?CaiqueMendev&show_icons=true&theme=dracula">
+  <img src="https://github-readme-stats.vercel.app/api?username=CaiqueMendev&show_icons=true&theme=dracula">
 </p>
 ---
 
