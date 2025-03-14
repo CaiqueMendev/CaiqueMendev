@@ -30,7 +30,7 @@
 
 🔹 Desenvolvendo um **CRM** para análise de comportamento de clientes
 
-🔹 Desenvolvendo um **E-commerce** para vendas de múltiplas fontes
+🔹 Desenvolvendo um **e-commerce** para vendas de múltiplas fontes
 
 ---
 
@@ -57,36 +57,32 @@
 ---
 
 ## 📌 Projetos Destacados
-### 🛒 **[Marketplace de Dropshipping](#)**
-> **Stack:** Next.js + Node.js + React Query + AWS  
-> Desenvolvendo um marketplace para conectar fornecedores físicos a consumidores digitais.
-
-### 🎮 **[Lendas de Eldoria](#)**
-> **Stack:** Unity + C#  
-> Um jogo de plataforma 2D com sprites personalizados e mecânicas de troca de equipamentos.
-
 ### 🔧 **[Painel de Ordem de Serviço](#)**
-> **Stack:** PHP + AdminLTE + MySQL  
+> **Stack:** PHP + MySQL  
 > Dashboard completo para gerenciamento de ordens de serviço.
 
-### 🤖 **[L2jTesla Autobots](#)**
-> **Stack:** Kotlin + Java  
-> Melhorando a movimentação aleatória de autobots no servidor Lineage 2.
+### 🛒 **[Multi e-commerce](#)**
+> **Stack:** Next.js + Node.js + AWS  
+> Desenvolvendo um marketplace para conectar fornecedores físicos a consumidores digitais.
+
+### 🔧 **[GEO - Gestão Eficiente de Obra](#)**
+> **Stack:** Laravel + React + MySQL
+> ERP e Dashboard para gestão de obra civil.
 
 ---
 
 ## 📈 Estatísticas do GitHub
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=dark" height="165">
-  <img src="https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=dark" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?CaiqueMendev&layout=compact&theme=dark" height="165">
+  <img src="https://github-readme-stats.vercel.app/api?CaiqueMendev&show_icons=true&theme=dark" height="165">
 </p>
 
 ---
 
 ## 📬 Como me encontrar?
-📩 **Email:** [seu-email@gmail.com](mailto:seu-email@gmail.com)  
-💼 **LinkedIn:** [linkedin.com/in/seu-usuario](https://linkedin.com/in/seu-usuario)  
-📱 **Instagram:** [@seu-usuario](https://instagram.com/seu-usuario)  
+📩 **Email:** [caiquemendes.dev@gmail.com](mailto:seu-email@gmail.com)  
+💼 **LinkedIn:** [linkedin.com/in/CaiqueMendev](https://www.linkedin.com/in/caique-oliveira-86347132b/)  
+📱 **Instagram:** [@ca_mendes._](https://instagram.com/ca_mendes._)  
 
 ---
 
