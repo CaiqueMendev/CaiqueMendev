@@ -1,4 +1,6 @@
-<h1 align="center">🚀 Olá! Eu sou Caique Mendes 👋</h1>
+# 👋 Olá! Eu sou Caique Mendes (Kaká)
+
+## **Desenvolvedor de Software · Salvador, BA 🇧🇷**
 
 <p align="center">
   <h2 align="center"><strong>Desenvolvedor Fullstack</strong></h2><br>
@@ -24,64 +26,60 @@
 ---
 
 ## 🌟 Sobre mim
-🔹 Programador da **Procede**, desenvolvendo sistemas institucionais para entidades governamentais públicas
 
-🔹 Desenvolvendo um **ERP** para gestão de obra civil
-
-🔹 Desenvolvendo um **CRM** para análise de comportamento de clientes
-
-🔹 Desenvolvendo um **e-commerce** para vendas de múltiplas fontes
+- 💻 Desenvolvedor na **Lottiar & Procede**
+- 🎓 Formado em **Análise e Desenvolvimento de Sistemas** pela UNIFACS
+- 🌵 Nascido em Serra do Ramalho, interior da Bahia
 
 ---
 
-## 🚀 Tecnologias & Ferramentas  
+## 🛠️ Tecnologias & Ferramentas
 
-### **⚙️ Stack de BackEnd**
-![Node.js](https://img.shields.io/badge/Node.js-43853d?style=for-the-badge&logo=node.js&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+### ⚙️ Backend
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 
-### **💻 Stack de FrontEnd**
+### 💻 Frontend
 ![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=nextdotjs)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Tailwind](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
-### **📊 Banco de Dados**
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+### 🗄️ Banco de Dados
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### **🛠 Ferramentas & DevOps**
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Composer](https://img.shields.io/badge/Composer-885630?style=for-the-badge&logo=composer&logoColor=white)
+### 🚀 DevOps & Infra
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
-## 📌 Projetos Destacados
-### 🔧 **[Painel de Ordem de Serviço](#)**
-> **Stack:** PHP + MySQL <br>
-> Dashboard completo para gerenciamento de ordens de serviço.
+## 📌 Projetos que liderei
 
-### 🛒 **[Multi e-commerce](#)**
-> **Stack:** Next.js + Node.js + AWS <br>
-> Desenvolvendo um marketplace para conectar fornecedores físicos a consumidores digitais.
+### 🏘️ [app.lottiar.com.br](https://app.lottiar.com.br)
+> Aplicação imobiliária.
 
-### 👷 **[GEO - Gestão Eficiente de Obra](#)**
-> **Stack:** Laravel + React + MySQL <br>
-> ERP e Dashboard para gestão de obra civil.
+### 🏛️ [votar.procede.org](https://votar.procede.org)
+> Sistema de transmissão de sessões legislativas.
+
+### 🏢 [caetite.ba.leg.br](https://caetite.ba.leg.br)
+> Site institucional para câmaras municipais.
 
 ---
 
 ## 📈 Estatísticas do GitHub
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CaiqueMendev&show_icons=true&theme=dracula">
-</p>
----
 
-## 📬 Como me encontrar?
-📩 **Email:** [caiquemendes.dev@gmail.com](mailto:seu-email@gmail.com)  
-💼 **LinkedIn:** [linkedin.com/in/CaiqueMendev](https://www.linkedin.com/in/caique-oliveira-86347132b/)  
-📱 **Instagram:** [@ca_mendes._](https://instagram.com/ca_mendes._)  
+![Estatísticas de Caique](https://github-readme-stats.vercel.app/api?username=CaiqueMendev&show_icons=true&theme=dracula)
 
 ---
 
-🎯 **_"Transformando ideias em código e inovação em realidade!"_** 🚀
+## 📬 Como me encontrar
+
+📩 **Email:** caiquemendes.dev@gmail.com
+💼 **LinkedIn:** [Caique Oliveira](https://www.linkedin.com/in/caique-oliveira-86347132b/)
+📱 **Instagram:** [@ca_mendes._](https://instagram.com/ca_mendes._)
+
+---
+
+🎯 ***"Transformando ideias em código e inovação em realidade!"*** 🚀
